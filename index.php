@@ -15,6 +15,7 @@
   <!-- Beginning of the body -->
   <!-- This is just to know if this update will show on Heroku -->
   <body>
+  <h1> Just a Test</h1>
     <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
       <a class="navbar-brand" href="#">Navbar</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
